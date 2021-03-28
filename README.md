@@ -1,8 +1,13 @@
 # Bunny Attack VR
 
+![image](https://user-images.githubusercontent.com/3065980/112756356-59ca2680-9017-11eb-88a7-cbda2dc026d7.png)
+
 **Note: This game hasn't been compiled since 2017.**
 
 In a post-apocalyptic world, where the human race has been overrun by kamikaze exploding bunnies, the all time scrabble grandmaster Bill needs to come out of retirement and shoot scrabble tiles off bunnies to play a game of life or death scrabble.
+
+![image](https://user-images.githubusercontent.com/3065980/112756379-79614f00-9017-11eb-9883-25de1b9e1a3e.png)
+
 
 ## Credits
 
