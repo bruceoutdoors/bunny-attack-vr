@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/3065980/112756356-59ca2680-9017-11eb-88a7-cbda2dc026d7.png)
 
-**Note: This game hasn't been compiled since 2017. It's also missing lfs files currently cause my lfs quota ran out.**
+**Note: This game hasn't been compiled since 2017. So much has changed (especially with the GVR API), that you mind as well build a new game than getting this to work. It's also missing lfs files currently cause my lfs quota ran out.**
 
 In a post-apocalyptic world, where the human race has been overrun by kamikaze exploding bunnies, the all time scrabble grandmaster Bill needs to come out of retirement and shoot scrabble tiles off bunnies to play a game of life or death scrabble.
 
